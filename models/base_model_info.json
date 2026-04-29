@@ -1,0 +1,12 @@
+{
+  "model_id": "meta/sam_vit_h_4b8939",
+  "model_name": "sam_vit_h_4b8939",
+  "official_url": "https://github.com/facebookresearch/segment-anything",
+  "description": "Meta (Facebook) 官方发布的 Segment Anything Model (SAM) 的 ViT-Huge 版本预训练模型权重"
+}
+{
+  "model_id": "qwen/Qwen3.5-9B",
+  "model_name": "Qwen3.5-9B",
+  "official_url": "https://modelscope.cn/models/qwen/Qwen3.5-9B/summary",
+  "description": "魔搭发布的Qwen3.5-9B"
+}
