@@ -164,6 +164,10 @@ python LoRA.py
 2. 使用 Qwen3.5-9B 进行可解释化，Qwen3.5-9B 仅基于训练集微调
 3. 使用 Qwen3.5-9B 对分类阈值在 0.48~0.55 范围内的图像进行分类结果修正
 
+## 微调权重获取
+
+上传了针对本比赛任务的微调权重，百度网盘获取链接：https://pan.baidu.com/s/1--VGLRzScQ-iRccXYgRgbQ?pwd=619r 提取码: 619r
+
 ## 联系方式
 交流请邮件：1085227472@qq.com
 
